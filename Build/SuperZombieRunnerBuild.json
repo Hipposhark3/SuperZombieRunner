@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SuperZombieRunnerBuild.data.unityweb",
+"asmCodeUrl": "SuperZombieRunnerBuild.asm.code.unityweb",
+"asmMemoryUrl": "SuperZombieRunnerBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "SuperZombieRunnerBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
